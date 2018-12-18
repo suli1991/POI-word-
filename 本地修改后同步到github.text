@@ -1,0 +1,10 @@
+# 本地修改后同步到github
+基本命令
+远程库同步到本地库：git pull --rebase origin master
+本地库同步到远程库：git push -u origin master
+## 一
+在本地创建仓库（新建文件夹），用来下载github项目
+可以再git bash 上用命令，也可以直接鼠标键盘操作
+## 二
+利用git bash 进入新建的本地仓库，写入命令
+git init
